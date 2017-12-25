@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreeScreens</string>
+
+    <string name="click_second_activity">Login</string>
+    <string name="medication_analytical_tracking_app">Medication Analytical Tracking App</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="go_to_next_page">Go To Next Page</string>
+    <string name="register">Register</string>
+
+</resources>
